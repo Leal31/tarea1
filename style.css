@@ -1,23 +1,26 @@
 body {
-  background-color:gray;
-}
+  background-color: gray; }
+
 h1 {
-  text-align:center;
-  background-color:pink;
-  color:white;
-}
+  text-align: center;
+  background-color: pink; }
+
 div {
-  text-align:center;
-  background-color:pink;
-  color:black;
-  font-size:15px;
-}
+  text-align: center;
+  background-color: pink;
+  color: black;
+  font-size: 13px; }
+
 ul {
-  background-color:pink;
-}
+  background-color: pink; }
+
 a {
-  color:purple;
-  font-size:14px;
-}
+  color: purple;
+  font-size: 13px; }
 
+footer {
+  background-color: pink;
+  text-align: center;
+  font-size: 13px; }
 
+/*# sourceMappingURL=style.css.map */
