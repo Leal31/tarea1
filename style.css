@@ -3,24 +3,43 @@ body {
 
 h1 {
   text-align: center;
-  background-color: pink; }
+  background-color: lightgray; }
 
 div {
-  text-align: center;
-  background-color: pink;
+  background-color: lightgray;
   color: black;
-  font-size: 13px; }
+  font-size: 13px;
+  height: 175px; }
 
 ul {
-  background-color: pink; }
+  background-color: lightgray; }
 
 a {
   color: purple;
   font-size: 13px; }
 
 footer {
-  background-color: pink;
+  background-color: lightgray;
   text-align: center;
   font-size: 13px; }
+
+img {
+  width: 200px;
+  text-align: right;
+  height: auto;
+  margin: 7px; }
+
+.divgrande {
+  height: 300px; }
+
+.imagen {
+  width: 200px;
+  height: 200px; }
+
+.divmediano {
+  height: 250px; }
+
+#divgigante {
+  height: 540px; }
 
 /*# sourceMappingURL=style.css.map */
